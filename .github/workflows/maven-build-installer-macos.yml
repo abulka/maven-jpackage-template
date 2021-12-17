@@ -5,7 +5,7 @@ name: Build macOS Installer
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, andy ]
   pull_request:
     branches: [ main ]
 
